@@ -26,8 +26,9 @@ if st.sidebar.button("Submit") and file != None:
             st.sidebar.success("Vector Database Created.")
         else:
             st.error(pipeline)
-    elif not os.path.exists(db_name):
+    elif os.path.exists(db_name):
         st.session_state.isdoc = db_name
+        st.sidebar.info("File already exists in Vector DB")
 
 else:
     st.sidebar.warning("Please Upload file.")

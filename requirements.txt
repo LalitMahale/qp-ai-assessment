@@ -1,0 +1,10 @@
+langchain== 0.2.15
+langchain-community==0.2.15
+langchain-core==0.2.43
+streamlit==1.38.0
+langchain-chroma==0.1.4
+chromadb==0.5.20
+transformers==4.45.
+sentence-transformers==3.1.1
+streamlit==1.38.0
+fastapi==0.115.5
