@@ -1,7 +1,7 @@
 A powerful **Question-Answering (QA)** application that can process questions and extract answers from uploaded documents (`docx` and `pdf`) or directly from user queries. Choose between the interactive **Streamlit** interface or the developer-friendly **FastAPI** RESTful API.
 
 ### Problem Statement
-[Problem statement](qp-ai-assessment\readme\README.md)
+[Problem statement](https://github.com/LalitMahale/qp-ai-assessment/tree/main/readme)
 
 
 
