@@ -8,3 +8,4 @@ transformers==4.45.
 sentence-transformers==3.1.1
 streamlit==1.38.0
 fastapi==0.115.5
+ragas==0.0.22
